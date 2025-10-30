@@ -1,0 +1,5 @@
+{
+  "name": "Medicode AI Eco",
+  "description": "An AI-powered assistant for medical coding professionals. It suggests relevant medical codes from clinical notes, provides a quick code lookup, and helps streamline the coding workflow.",
+  "requestFramePermissions": []
+}
